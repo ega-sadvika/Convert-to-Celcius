@@ -1,3 +1,3 @@
 # Convert-to-Celcius
 
-Fahrenheit is converted to celcius
+Fahrenheit is converted to celcius in the console
